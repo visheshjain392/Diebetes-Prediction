@@ -23,15 +23,10 @@ This project follows a standard data science workflow:
 4. **Model Building & Evaluation**  
    - Trained multiple classifiers:
      - Logistic Regression  
-     - K-Nearest Neighbors (KNN)  
      - Support Vector Machine (SVM)  
-     - Decision Tree  
-     - Random Forest  
-   - Evaluated using accuracy, recall, precision, F1-score, ROC-AUC  
-   - Plotted confusion matrices and ROC curves for comparison  
 
 5. **Final Model & Prediction**  
-   - Chose best-performing model (e.g., SVM/Random Forest)  
+   - Chose best-performing model (SVM)  
    - Implemented predictions with user-input features
 
 ---
@@ -60,7 +55,7 @@ This project follows a standard data science workflow:
 - **Data handling**: pandas, numpy  
 - **Visualization**: matplotlib, seaborn  
 - **Machine Learning**: scikit-learn  
-- **Interactive Analysis**: Jupyter Notebook
+- **Interactive Analysis**: Google Colab
 
 ---
 
